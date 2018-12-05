@@ -1,4 +1,4 @@
-# hospital========================================Read me===========================================
+Read me===========================================
 1. Install the XAMPP
 2.Copy the hospital folder in the C:\\xampp/htdocs
 
